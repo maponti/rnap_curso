@@ -1,2 +1,5 @@
-# rnap_curso
-Curso Redes Neurais e Aprendizado Profundo
+# Redes Neurais e Aprendizado Profundo
+## Curso SCC0270
+### Moacir A. Ponti - ICMC/USP 2022-2
+
+
